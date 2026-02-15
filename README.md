@@ -12,7 +12,7 @@
 
 **Tools:** SAS Programming, Statistical Analysis
 
-## 👥 Authors / Autores
+## 👥 Authors
 Project developed by:
 * **Pablo Galarón Mateo**
 * **Raúl Palomo Mazo**
